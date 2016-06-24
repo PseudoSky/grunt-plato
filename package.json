@@ -50,6 +50,7 @@
     "analysis"
   ],
   "dependencies": {
-    "plato": "~1.2.0"
+    "grunt-contrib-nodeunit": "^0.1.2",
+    "plato": "PseudoSky/plato"
   }
 }
